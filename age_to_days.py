@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def age_to_day(age):
     days = age * 365
     return days
